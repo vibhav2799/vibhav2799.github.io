@@ -206,7 +206,7 @@
       }
 ],
 
-"monster" : [
+"monsters" : [
           {
             "name"  : "Archers",
             "attack" : "10",
