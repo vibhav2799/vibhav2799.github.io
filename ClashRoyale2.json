@@ -24,11 +24,7 @@
             }
             ],
             
-          "monstersInRoom" : [
-              {
-                  "name" : "Archers"
-              }
-          ]
+          "monstersInRoom" : [ "Archers"]
       },
       {
           "name" : "Goblin Stadium",
@@ -56,14 +52,7 @@
             }
             ],
             
-          "monstersInRoom" : [
-              {
-                  "name" : "Giant"
-              },
-              {
-                "name" : "Spear Goblins"
-              }
-          ]
+          "monstersInRoom" : [ "Giant", "Spear Goblins"]
       },
       
       {
@@ -87,14 +76,7 @@
             }
             ],
             
-          "monstersInRoom" : [
-              {
-                  "name" : "Skeleton Army"
-              }, 
-              {
-                  "name" :"Tombstone"
-              }
-          ]
+          "monstersInRoom" : [ "Skeleton Army", "Tombstone"]
       },
       
       {
@@ -122,14 +104,7 @@
             }
             ],
             
-          "monstersInRoom" : [
-              {
-                  "name" : "Elite Barbarian"
-              }, 
-              {
-                  "name" :"Lava Hound"
-              }
-          ]
+          "monstersInRoom" : [ "Elite Barbarian", "Lava Hound"]
       },
       
       {
@@ -153,11 +128,7 @@
             }
             ],
             
-          "monstersInRoom" : [
-              {
-                  "name" : "Witch"
-              }
-          ]
+          "monstersInRoom" : [ "Witch" ]
       },
       {
         "name" : "Pekka's Playhouse",
@@ -180,14 +151,7 @@
             }
             ],
             
-          "monstersInRoom" : [
-              {
-                  "name" : "Pekka"
-              }, 
-              {
-                  "name" :"Prince"
-              }
-          ]
+          "monstersInRoom" : [ "Pekka", "Prince"]
       },
       {
         "name" : "Legendary Arena",
@@ -198,11 +162,7 @@
             "damage" : "100.0"
           }
           ],
-          "monstersInRoom" : [
-              {
-                  "name" : "Wizard"
-              }
-          ]
+          "monstersInRoom" : ["Wizard"]
       }
 ],
 
