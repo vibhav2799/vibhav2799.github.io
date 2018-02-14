@@ -181,7 +181,7 @@
           },
           {
             "name"  : "Spear Goblins",
-            "attack" : "7",
+            "attack" : "18",
             "defense" : "7",
             "health" : "100"
           },
