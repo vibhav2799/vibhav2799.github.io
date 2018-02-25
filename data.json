@@ -89,7 +89,7 @@
          "dish":[
             {
                "name":"Goat Cheese Pesto Sandwich",
-               "ingredients":[
+               "ingredientsToUse":[
                   "Cheese",
                   "Pesto",
                   "Bread"
@@ -102,7 +102,7 @@
             },
             {
                "name":"Spinach Cheese Pizza",
-               "ingredients":[
+               "ingredientsToUse":[
                   "Cheese",
                   "Spinach",
                   "Marinara",
@@ -116,7 +116,7 @@
             },
             {
                "name":"Marinara Garlic Noodles",
-               "ingredients":[
+               "ingredientsToUse":[
                   "Marinara",
                   "Garlic",
                   "Rice Noodles",
@@ -131,7 +131,7 @@
             },
             {
                "name":"Chocolate Peanut Butter Smoothie",
-               "ingredients":[
+               "ingredientsToUse":[
                   "Milk",
                   "Peanut Butter",
                   "Chocolate Slab"
@@ -144,7 +144,7 @@
             },
             {
                "name":"Cookie Smoothie",
-               "ingredients":[
+               "ingredientsToUse":[
                   "Cookies",
                   "Peanut Butter",
                   "Milk"
@@ -161,7 +161,7 @@
          "dish":[
             {
                "name":"Goat Cheese Pesto Sandwich",
-               "ingredients":[
+               "ingredientsToUse":[
                   "Cheese",
                   "Pesto",
                   "Bread"
@@ -178,7 +178,7 @@
             },
             {
                "name":"Marinara Garlic Noodles",
-               "ingredients":[
+               "ingredientsToUse":[
                   "Marinara",
                   "Garlic",
                   "Rice Noodles",
@@ -187,7 +187,7 @@
             },
             {
                "name":"Chocolate Peanut Butter Smoothie",
-               "ingredients":[
+               "ingredientsToUse":[
                   "Milk",
                   "Peanut Butter",
                   "Chocolate Slab"
@@ -195,7 +195,7 @@
             },
             {
                "name":"Cookie Smoothie",
-               "ingredients":[
+               "ingredientsToUse":[
                   "Cookies",
                   "Peanut Butter",
                   "Milk"
