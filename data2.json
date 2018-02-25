@@ -1,0 +1,157 @@
+{  
+   "food":[  
+      {  
+         "name":"Milk",
+         "cost":"4"
+      },
+      {  
+         "name":"Butter",
+         "cost":"3.5"
+      },
+      {  
+         "name":"Bread",
+         "cost":"2"
+      },
+      {  
+         "name":"Chocolate Slab",
+         "cost":"5.75"
+      },
+      {  
+         "name":"Tofu",
+         "cost":"4"
+      },
+      {  
+         "name":"Spinach",
+         "cost":"2"
+      },
+      {  
+         "name":"Peanut Butter",
+         "cost":"4.5"
+      },
+      {  
+         "name":"Cheese",
+         "cost":"6"
+      },
+      {  
+         "name":"Marinara",
+         "cost":"5"
+      },
+      {  
+         "name":"Pesto",
+         "cost":"7"
+      },
+      {  
+         "name":"Rice Noodles",
+         "cost":"3"
+      },
+      {  
+         "name":"Bow-Tie Pasta",
+         "cost":"5"
+      },
+      {  
+         "name":"Cookies",
+         "cost":"5"
+      },
+      {  
+         "name":"Garlic",
+         "cost":"3"
+      }
+   ],
+   "equipments":[  
+      {  
+         "name":"Oven",
+         "cost":"40",
+         "upkeep":"1"
+      },
+      {  
+         "name":"Exhaust",
+         "cost":"60",
+         "upkeep":"1.5"
+      },
+      {  
+         "name":"Grill",
+         "cost":"85",
+         "upkeep":"2"
+      },
+      {  
+         "name":"Ice Maker",
+         "cost":"100",
+         "upkeep":"2"
+      },
+      {  
+         "name":"Blender",
+         "cost":"30",
+         "upkeep":"0.5"
+      }
+   ],
+   "dish":[  
+      {  
+         "name":"Goat Cheese Pesto Sandwich",
+         "ingredientsToUse":[  
+            "Cheese",
+            "Pesto",
+            "Bread"
+         ],
+         "equipmentsToUse":[  
+            "Grill",
+            "Oven"
+         ],
+         "timeToCook":"10"
+      },
+      {  
+         "name":"Spinach Cheese Pizza",
+         "ingredientsToUse":[  
+            "Cheese",
+            "Spinach",
+            "Marinara",
+            "Bread"
+         ],
+         "equipmentsToUse":[  
+            "Oven",
+            "Grill"
+         ],
+         "timeToCook":"18"
+      },
+      {  
+         "name":"Marinara Garlic Noodles",
+         "ingredientsToUse":[  
+            "Marinara",
+            "Garlic",
+            "Rice Noodles",
+            "Cheese"
+         ],
+         "equipmentsToUse":[  
+            "Grill",
+            "Oven",
+            "Exhaust"
+         ],
+         "timeToCook":"17"
+      },
+      {  
+         "name":"Chocolate Peanut Butter Smoothie",
+         "ingredientsToUse":[  
+            "Milk",
+            "Peanut Butter",
+            "Chocolate Slab"
+         ],
+         "equipmentsToUse":[  
+            "Ice Maker",
+            "Blender"
+         ],
+         "timeToCook":"7"
+      },
+      {  
+         "name":"Cookie Smoothie",
+         "ingredientsToUse":[  
+            "Cookies",
+            "Peanut Butter",
+            "Milk"
+         ],
+         "equipmentsToUse":[  
+            "Ice Maker",
+            "Blender"
+         ],
+         "timeToCook":"7"
+      }
+   ]
+}
