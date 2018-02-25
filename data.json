@@ -61,27 +61,27 @@
          ],
          "equipments":[  
             {  
-               "name":"Oven",
+               "nameOfEquipment":"Oven",
                "cost":"40",
                "upkeep":"1"
             },
             {  
-               "name":"Exhaust",
+               "nameOfEquipment":"Exhaust",
                "cost":"60",
                "upkeep":"1.5"
             },
             {  
-               "name":"Grill",
+               "nameOfEquipment":"Grill",
                "cost":"85",
                "upkeep":"2"
             },
             {  
-               "name":"Ice Maker",
+               "nameOfEquipment":"Ice Maker",
                "cost":"100",
                "upkeep":"2"
             },
             {  
-               "name":"Blender",
+               "nameOfEquipment":"Blender",
                "cost":"30",
                "upkeep":"0.5"
             }
