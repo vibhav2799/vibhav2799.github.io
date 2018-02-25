@@ -88,7 +88,7 @@
          ],
          "dish":[  
             {  
-               "name":"Goat Cheese Pesto Sandwich",
+               "nameOfDish":"Goat Cheese Pesto Sandwich",
                "ingredientsToUse":[  
                   "Cheese",
                   "Pesto",
@@ -101,7 +101,7 @@
                "timeToCook":"10"
             },
             {  
-               "name":"Spinach Cheese Pizza",
+               "nameOfDish":"Spinach Cheese Pizza",
                "ingredientsToUse":[  
                   "Cheese",
                   "Spinach",
@@ -115,7 +115,7 @@
                "timeToCook":"18"
             },
             {  
-               "name":"Marinara Garlic Noodles",
+               "nameOfDish":"Marinara Garlic Noodles",
                "ingredientsToUse":[  
                   "Marinara",
                   "Garlic",
@@ -130,7 +130,7 @@
                "timeToCook":"17"
             },
             {  
-               "name":"Chocolate Peanut Butter Smoothie",
+               "nameOfDish":"Chocolate Peanut Butter Smoothie",
                "ingredientsToUse":[  
                   "Milk",
                   "Peanut Butter",
@@ -143,7 +143,7 @@
                "timeToCook":"7"
             },
             {  
-               "name":"Cookie Smoothie",
+               "nameOfDish":"Cookie Smoothie",
                "ingredientsToUse":[  
                   "Cookies",
                   "Peanut Butter",
