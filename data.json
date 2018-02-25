@@ -156,6 +156,52 @@
                "timeToCook":"7"
             }
          ]
+      },
+      {
+         "dish":[
+            {
+               "nameOfDish":"Goat Cheese Pesto Sandwich",
+               "ingredientsToUse":[
+                  "Cheese",
+                  "Pesto",
+                  "Bread"
+               ]
+            },
+            {
+               "nameOfDish":"Spinach Cheese Pizza",
+               "ingredientsToUse":[
+                  "Cheese",
+                  "Spinach",
+                  "Marinara",
+                  "Bread"
+               ]
+            },
+            {
+               "nameOfDish":"Marinara Garlic Noodles",
+               "ingredientsToUse":[
+                  "Marinara",
+                  "Garlic",
+                  "Rice Noodles",
+                  "Cheese"
+               ]
+            },
+            {
+               "nameOfDish":"Chocolate Peanut Butter Smoothie",
+               "ingredientsToUse":[
+                  "Milk",
+                  "Peanut Butter",
+                  "Chocolate Slab"
+               ]
+            },
+            {
+               "nameOfDish":"Cookie Smoothie",
+               "ingredientsToUse":[
+                  "Cookies",
+                  "Peanut Butter",
+                  "Milk"
+               ]
+            }
+         ]
       }
    ]
 }
