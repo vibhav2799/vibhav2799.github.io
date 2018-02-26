@@ -2,59 +2,73 @@
    "food":[  
       {  
          "nameOfFood":"Milk",
-         "cost":"4"
+         "cost":"4",
+         "readyToSell":"True"
       },
       {  
          "nameOfFood":"Butter",
-         "cost":"3.5"
+         "cost":"3.5",
+         "readyToSell":"False"
       },
       {  
          "nameOfFood":"Bread",
-         "cost":"2"
+         "cost":"2",
+         "readyToSell":"False"
       },
       {  
          "nameOfFood":"Chocolate Slab",
-         "cost":"5.75"
+         "cost":"5.75",
+         "readyToSell":"True"
       },
       {  
          "nameOfFood":"Tofu",
-         "cost":"4"
+         "cost":"4",
+         "readyToSell":"False"
       },
       {  
          "nameOfFood":"Spinach",
-         "cost":"2"
+         "cost":"2",
+         "readyToSell":"False"
       },
       {  
          "nameOfFood":"Peanut Butter",
-         "cost":"4.5"
+         "cost":"4.5",
+         "readyToSell":"False"
       },
       {  
          "nameOfFood":"Cheese",
-         "cost":"6"
+         "cost":"6",
+         "readyToSell":"False"
       },
       {  
          "nameOfFood":"Marinara",
-         "cost":"5"
+         "cost":"5",
+         "readyToSell":"False"
       },
       {  
          "nameOfFood":"Pesto",
-         "cost":"7"
+         "cost":"7",
+         "readyToSell":"False"
       },
       {  
          "nameOfFood":"Rice Noodles",
-         "cost":"3"
+         "cost":"3",
+         "readyToSell":"False"
       },
       {  
          "nameOfFood":"Bow-Tie Pasta",
-         "cost":"5"
+         "cost":"5",
+         "readyToSell":"False"
       },
       {  
          "nameOfFood":"Cookies",
-         "cost":"5"
+         "cost":"5",
+         "readyToSell":"True"
       },
       {  
          "nameOfFood":"Garlic",
          "cost":"3"
+         "readyToSell":"False"
       }
    ],
    "equipments":[  
