@@ -1,7 +1,7 @@
 {  
    "locations":[  
       {  
-         "type":"Food",
+         "type":"Location",
          "food":[  
             {  
                "name":"Milk",
@@ -62,7 +62,7 @@
          ]
       },
       {  
-         "type":"Equipment",
+         "type":"Location",
          "equipments":[  
             {  
                "name":"Oven",
@@ -92,7 +92,7 @@
          ]
       },
       {  
-         "type":"Recipe",
+         "type":"Location",
          "dish":[  
             {  
                "name":"Goat Cheese Pesto Sandwich",
