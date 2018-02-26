@@ -1,176 +1,173 @@
-{  
-   "food":[  
-      {  
-         "nameOfFood":"Milk",
-         "cost":"4",
-         "readyToSell":"True"
-      },
-      {  
-         "nameOfFood":"Butter",
-         "cost":"3.5",
-         "readyToSell":"False"
-      },
-      {  
-         "nameOfFood":"Bread",
-         "cost":"2",
-         "readyToSell":"False"
-      },
-      {  
-         "nameOfFood":"Chocolate Slab",
-         "cost":"5.75",
-         "readyToSell":"True"
-      },
-      {  
-         "nameOfFood":"Tofu",
-         "cost":"4",
-         "readyToSell":"False"
-      },
-      {  
-         "nameOfFood":"Spinach",
-         "cost":"2",
-         "readyToSell":"False"
-      },
-      {  
-         "nameOfFood":"Peanut Butter",
-         "cost":"4.5",
-         "readyToSell":"False"
-      },
-      {  
-         "nameOfFood":"Cheese",
-         "cost":"6",
-         "readyToSell":"False"
-      },
-      {  
-         "nameOfFood":"Marinara",
-         "cost":"5",
-         "readyToSell":"False"
-      },
-      {  
-         "nameOfFood":"Pesto",
-         "cost":"7",
-         "readyToSell":"False"
-      },
-      {  
-         "nameOfFood":"Rice Noodles",
-         "cost":"3",
-         "readyToSell":"False"
-      },
-      {  
-         "nameOfFood":"Bow-Tie Pasta",
-         "cost":"5",
-         "readyToSell":"False"
-      },
-      {  
-         "nameOfFood":"Cookies",
-         "cost":"5",
-         "readyToSell":"True"
-      },
-      {  
-         "nameOfFood":"Garlic",
-         "cost":"3"
-         "readyToSell":"False"
-      }
-   ],
-   "equipments":[  
-      {  
-         "nameOfEquipment":"Oven",
-         "cost":"40",
-         "upkeep":"1"
-      },
-      {  
-         "nameOfEquipment":"Exhaust",
-         "cost":"60",
-         "upkeep":"1.5"
-      },
-      {  
-         "nameOfEquipment":"Grill",
-         "cost":"85",
-         "upkeep":"2"
-      },
-      {  
-         "nameOfEquipment":"Ice Maker",
-         "cost":"100",
-         "upkeep":"2"
-      },
-      {  
-         "nameOfEquipment":"Blender",
-         "cost":"30",
-         "upkeep":"0.5"
-      }
-   ],
-   "recipes":[  
-      {  
-         "nameOfDish":"Goat Cheese Pesto Sandwich",
-         "ingredientsToUse":[  
-            "Cheese",
-            "Pesto",
-            "Bread"
-         ],
-         "equipmentsToUse":[  
-            "Grill",
-            "Oven"
-         ],
-         "timeToCook":"10",
-         "cost" : "50"
-      },
-      {  
-         "nameOfDish":"Spinach Cheese Pizza",
-         "ingredientsToUse":[  
-            "Cheese",
-            "Spinach",
-            "Marinara",
-            "Bread"
-         ],
-         "equipmentsToUse":[  
-            "Oven",
-            "Grill"
-         ],
-         "timeToCook":"18",
-         "cost" : "70"
-      },
-      {  
-         "nameOfDish":"Marinara Garlic Noodles",
-         "ingredientsToUse":[  
-            "Marinara",
-            "Garlic",
-            "Rice Noodles",
-            "Cheese"
-         ],
-         "equipmentsToUse":[  
-            "Grill",
-            "Oven",
-            "Exhaust"
-         ],
-         "timeToCook":"17",
-         "cost" : "65"
-      },
-      {  
-         "nameOfDish":"Chocolate Peanut Butter Smoothie",
-         "ingredientsToUse":[  
-            "Milk",
-            "Peanut Butter",
-            "Chocolate Slab"
-         ],
-         "equipmentsToUse":[  
-            "Ice Maker",
-            "Blender"
-         ],
-         "timeToCook":"7",
-         "cost" : "80"
-      },
-      {  
-         "nameOfDish":"Cookie Smoothie",
-         "ingredientsToUse":[  
-            "Cookies",
-            "Peanut Butter",
-            "Milk"
-         ],
-         "equipmentsToUse":[  
-            "Ice Maker",
-            "Blender"
-         ],
-         "timeToCook":"7",
-         "cost" : "90"
-      }
-   ]
+{
+	"food": [{
+			"nameOfFood": "Milk",
+			"cost": "4",
+			"readyToSell": "True"
+		},
+		{
+			"nameOfFood": "Butter",
+			"cost": "3.5",
+			"readyToSell": "False"
+		},
+		{
+			"nameOfFood": "Bread",
+			"cost": "2",
+			"readyToSell": "False"
+		},
+		{
+			"nameOfFood": "Chocolate Slab",
+			"cost": "5.75",
+			"readyToSell": "True"
+		},
+		{
+			"nameOfFood": "Tofu",
+			"cost": "4",
+			"readyToSell": "False"
+		},
+		{
+			"nameOfFood": "Spinach",
+			"cost": "2",
+			"readyToSell": "False"
+		},
+		{
+			"nameOfFood": "Peanut Butter",
+			"cost": "4.5",
+			"readyToSell": "False"
+		},
+		{
+			"nameOfFood": "Cheese",
+			"cost": "6",
+			"readyToSell": "False"
+		},
+		{
+			"nameOfFood": "Marinara",
+			"cost": "5",
+			"readyToSell": "False"
+		},
+		{
+			"nameOfFood": "Pesto",
+			"cost": "7",
+			"readyToSell": "False"
+		},
+		{
+			"nameOfFood": "Rice Noodles",
+			"cost": "3",
+			"readyToSell": "False"
+		},
+		{
+			"nameOfFood": "Bow-Tie Pasta",
+			"cost": "5",
+			"readyToSell": "False"
+		},
+		{
+			"nameOfFood": "Cookies",
+			"cost": "5",
+			"readyToSell": "True"
+		},
+		{
+			"nameOfFood": "Garlic",
+			"cost": "3",
+			"readyToSell": "False"
+		}
+	],
+	"equipments": [{
+			"nameOfEquipment": "Oven",
+			"cost": "40",
+			"upkeep": "1"
+		},
+		{
+			"nameOfEquipment": "Exhaust",
+			"cost": "60",
+			"upkeep": "1.5"
+		},
+		{
+			"nameOfEquipment": "Grill",
+			"cost": "85",
+			"upkeep": "2"
+		},
+		{
+			"nameOfEquipment": "Ice Maker",
+			"cost": "100",
+			"upkeep": "2"
+		},
+		{
+			"nameOfEquipment": "Blender",
+			"cost": "30",
+			"upkeep": "0.5"
+		}
+	],
+	"recipes": [{
+			"nameOfDish": "Goat Cheese Pesto Sandwich",
+			"ingredientsToUse": [
+				"Cheese",
+				"Pesto",
+				"Bread"
+			],
+			"equipmentsToUse": [
+				"Grill",
+				"Oven"
+			],
+			"timeToCook": "10",
+			"cost": "50"
+		},
+		{
+			"nameOfDish": "Spinach Cheese Pizza",
+			"ingredientsToUse": [
+				"Cheese",
+				"Spinach",
+				"Marinara",
+				"Bread"
+			],
+			"equipmentsToUse": [
+				"Oven",
+				"Grill"
+			],
+			"timeToCook": "18",
+			"cost": "70"
+		},
+		{
+			"nameOfDish": "Marinara Garlic Noodles",
+			"ingredientsToUse": [
+				"Marinara",
+				"Garlic",
+				"Rice Noodles",
+				"Cheese"
+			],
+			"equipmentsToUse": [
+				"Grill",
+				"Oven",
+				"Exhaust"
+			],
+			"timeToCook": "17",
+			"cost": "65"
+		},
+		{
+			"nameOfDish": "Chocolate Peanut Butter Smoothie",
+			"ingredientsToUse": [
+				"Milk",
+				"Peanut Butter",
+				"Chocolate Slab"
+			],
+			"equipmentsToUse": [
+				"Ice Maker",
+				"Blender"
+			],
+			"timeToCook": "7",
+			"cost": "80"
+		},
+		{
+			"nameOfDish": "Cookie Smoothie",
+			"ingredientsToUse": [
+				"Cookies",
+				"Peanut Butter",
+				"Milk"
+			],
+			"equipmentsToUse": [
+				"Ice Maker",
+				"Blender"
+			],
+			"timeToCook": "7",
+			"cost": "90"
+		}
+	]
 }
