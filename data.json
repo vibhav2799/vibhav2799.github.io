@@ -94,7 +94,8 @@
 				"Oven"
 			],
 			"timeToCook": "10",
-			"cost": "50"
+			"cost": "50",
+			"popular": "4"
 		},
 		{
 			"nameOfDish": "Spinach Cheese Pizza",
@@ -109,7 +110,8 @@
 				"Grill"
 			],
 			"timeToCook": "18",
-			"cost": "70"
+			"cost": "70",
+			"popular": "3"
 		},
 		{
 			"nameOfDish": "Marinara Garlic Noodles",
@@ -125,7 +127,8 @@
 				"Exhaust"
 			],
 			"timeToCook": "17",
-			"cost": "65"
+			"cost": "65",
+			"popular": "2"
 		},
 		{
 			"nameOfDish": "Chocolate Peanut Butter Smoothie",
@@ -139,7 +142,8 @@
 				"Blender"
 			],
 			"timeToCook": "7",
-			"cost": "80"
+			"cost": "80",
+			"popular": "1"
 		},
 		{
 			"nameOfDish": "Cookie Smoothie",
@@ -153,7 +157,8 @@
 				"Blender"
 			],
 			"timeToCook": "7",
-			"cost": "90"
+			"cost": "90",
+			"popular": "4"
 		}
 	]
 }
